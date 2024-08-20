@@ -1,0 +1,17 @@
+footer {
+    background-color: #33363b;
+    color: white; 
+    text-align: center; 
+    padding: 20px 0; 
+    position: relative; 
+    bottom: 0;
+    width: 100%; 
+    box-shadow: 0px -2px 10px rgba(0, 0, 0, 0.1); 
+}
+
+footer h1 {
+    font-size: 16px; 
+    margin: 0; 
+    font-weight: normal; 
+    color: inherit; 
+}
